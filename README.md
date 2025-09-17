@@ -61,13 +61,7 @@ By structuring the dashboard this way, I ensured each part aligned with a **real
 
 ---
 
-## 🔗 View the Live Dashboard
 
-🔗 [View on Tableau Public](https://public.tableau.com/app/profile/yourname/viz/HRDashboard/Overview)
-
-_(Update this link once uploaded!)_
-
----
 
 ## 🧠 Lessons & Value
 
